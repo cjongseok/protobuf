@@ -42,7 +42,7 @@ It has these top-level messages:
 */
 package testdata
 
-import proto "github.com/golang/protobuf/proto"
+import proto "github.com/cjongseok/protobuf/proto"
 import fmt "fmt"
 import math "math"
 

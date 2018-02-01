@@ -135,7 +135,7 @@ To create and play with a Test object from the example package,
 	import (
 		"log"
 
-		"github.com/golang/protobuf/proto"
+		"github.com/cjongseok/protobuf/proto"
 		"path/to/example"
 	)
 

@@ -51,9 +51,9 @@ import (
 	"strings"
 	"time"
 
-	"github.com/golang/protobuf/proto"
+	"github.com/cjongseok/protobuf/proto"
 
-	stpb "github.com/golang/protobuf/ptypes/struct"
+	stpb "github.com/cjongseok/protobuf/ptypes/struct"
 )
 
 // Marshaler is a configurable object for converting between

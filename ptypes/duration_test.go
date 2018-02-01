@@ -36,8 +36,8 @@ import (
 	"testing"
 	"time"
 
-	"github.com/golang/protobuf/proto"
-	durpb "github.com/golang/protobuf/ptypes/duration"
+	"github.com/cjongseok/protobuf/proto"
+	durpb "github.com/cjongseok/protobuf/ptypes/duration"
 )
 
 const (

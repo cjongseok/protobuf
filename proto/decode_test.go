@@ -37,8 +37,8 @@ import (
 	"fmt"
 	"testing"
 
-	"github.com/golang/protobuf/proto"
-	tpb "github.com/golang/protobuf/proto/proto3_proto"
+	"github.com/cjongseok/protobuf/proto"
+	tpb "github.com/cjongseok/protobuf/proto/proto3_proto"
 )
 
 var (

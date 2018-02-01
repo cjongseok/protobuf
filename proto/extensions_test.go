@@ -38,8 +38,8 @@ import (
 	"sort"
 	"testing"
 
-	"github.com/golang/protobuf/proto"
-	pb "github.com/golang/protobuf/proto/testdata"
+	"github.com/cjongseok/protobuf/proto"
+	pb "github.com/cjongseok/protobuf/proto/testdata"
 	"golang.org/x/sync/errgroup"
 )
 
